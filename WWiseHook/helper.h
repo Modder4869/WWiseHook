@@ -5,3 +5,4 @@
 #include <fstream>
 using namespace std;
 void WriteOutputToFile(const std::wstring& output);
+BYTE* GetAddress();
